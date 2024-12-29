@@ -1,2 +1,2 @@
 # Cardputer-T-Cam
-Simple M5 Cardputer Thermal Cam based on AMG8833
+M5 Cardputer Thermal Cam based on AMG8833. Based on https://github.com/hkoffer/M5Stack-Thermal-Camera-/tree/master from hkoffer.
